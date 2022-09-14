@@ -11,7 +11,7 @@ export default function App() {
         <footer>
           This homework is{" "}
           <a
-            href="https://github.com/hacker-baby/react-weather-app"
+            href="https://github.com/luciejachimova/weather-homework-react"
             target="_blank"
             rel="noreferrer"
           >
